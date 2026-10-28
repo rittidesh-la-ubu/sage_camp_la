@@ -8,4 +8,6 @@
 
 ## รายชื่อ
 
+-rittidesh
+
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
